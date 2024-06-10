@@ -1,0 +1,20 @@
+1, Classic T-shirt, 10000, M, Red
+2, Straight-Leg Jeans, 45000, L, Blue
+3, Hooded Jacket, 75000, XL, Black
+4, Knit Sweater, 35000, M, Green
+5, Chiffon Dress, 60000, S, Yellow
+6, Pleated Skirt, 30000, M, Pink
+7, Cargo Shorts, 20000, L, White
+8, Wool Coat, 95000, M, Grey
+9, Sleeveless Blouse, 40000, S, Purple
+10, Pullover Hoodie, 50000, XL, Navy
+11, Slim-Fit Pants, 40000, L, Black
+12, Oxford Shirt, 30000, M, White
+13, Baseball Cap, 15000, Free, Black
+14, Silk Scarf, 10000, Free, Red
+15, Leather Gloves, 8000, M, Black
+16, Ankle Socks, 5000, L, Grey
+17, Leather Belt, 20000, Free, Brown
+18, Necktie, 15000, Free, Blue
+19, Lightweight Jacket, 80000, M, Beige
+20, Quilted Vest, 25000, L, Brown
